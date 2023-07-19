@@ -1,4 +1,4 @@
-# prototype_availability
+# 空き状況表示プログラム
 
 ## 仕様
 
